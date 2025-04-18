@@ -1,11 +1,10 @@
 👨‍💻 **Full Stack Web Developer**  
-⚛️ Front-End: React.js | Next.js | Tailwind CSS  
-🛠️ Back-End: Django | Python  
-📦 Git & GitHub | REST APIs | OOP
+⚛️ React.js • Next.js • Tailwind CSS  
+🐍 Python • Django • Django REST Framework  
+📦 Git & GitHub • REST APIs • OOP  
+📊 Focused on scalable, SEO-friendly apps with clean UI/UX.  
+📚 Currently learning advanced backend development.
 
-🚀 Passionate about crafting fast, scalable & SEO-friendly web apps  
-🎯 Focused on clean UI/UX and maintainable code  
-📚 Always learning, always building  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/lotfy1654)  
 📫 lotfy1654@gmail.com
