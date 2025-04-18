@@ -5,6 +5,5 @@
 📊 Focused on scalable, SEO-friendly apps with clean UI/UX.  
 📚 Currently learning advanced backend development.
 
-
 🔗 [LinkedIn](https://www.linkedin.com/in/lotfy1654)  
 📫 lotfy1654@gmail.com
